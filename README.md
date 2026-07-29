@@ -1,0 +1,2 @@
+# studentmanagementsystem
+centralising data
